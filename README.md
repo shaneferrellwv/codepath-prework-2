@@ -6,7 +6,7 @@ The app takes basic information from the user and creates an introduction using 
 
 ### App Walk-though
 
-![](https://imgur.com/1QxfQkv)
+![](https://imgur.com/1QxfQkv.gif)
 
 ### Required Features
 
